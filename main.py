@@ -1,5 +1,5 @@
 '''
-9*9_sudoku solving code made by SC1723(Python版)
+9*9_sudoku solving code made by SCY1723(Python版)
 Inspired by:BV1DD4y1h7Zg
 '''
 #input sudoku
